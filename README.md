@@ -5,7 +5,9 @@
 1. Code
 2. Control Flow Graph
 
+
 ![controlflowgraph](https://github.com/miajaneva/SI_2023_lab2_206011/assets/73714277/a897d113-cdde-4eae-b26d-73aafb60b283)
+
 
 3. Цикломатска комплексност
 
